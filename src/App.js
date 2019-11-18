@@ -8,7 +8,7 @@ function App() {
         <input type="text" id="name" name="name" required></input>
         <label for="description">Short description</label>
         <input type="text" id="description" name="description" required></input>
-        <label for="task">Task1</label>
+        <label for="task">Task2</label>
         <textarea id="task" name="tak" required></textarea>
         <button type="submit">Submit</button>
     </form>
